@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Arya krishnan A R
+- 🌱 I’m currently learning M.Sc.Data Science at Department of Future Studies, University of Kerala
