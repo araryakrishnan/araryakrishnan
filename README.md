@@ -1,4 +1,4 @@
-# Hello there! <img 
+# Hello there!
 
 ### 🤵 About Me:
  <ul>
@@ -18,13 +18,12 @@ science</li>
    <strong>Kaggle Profile</strong> : https://www.kaggle.com/aryakrishnanar
   </li>
 </ul> 
-![dataset](https://road-to-kaggle-
-grandmaster.vercel.app/api/badges/aryakrishnanar/dataset/light)
-![notebook](https://road-to-kaggle-
-grandmaster.vercel.app/api/badges/aryakrishnanar/notebook/light)
-![discussion](https://road-to-kaggle-
-grandmaster.vercel.app/api/badges/aryakrishnanar/discussion/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aryakrishnanar/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aryakrishnanar/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aryakrishnanar/discussion/light)
+
 ### Technical Skills 
+
 <code><img height="25" 
 src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c4
 1da080abc49f1ba4132127c1/topics/python/python.png"></code>
