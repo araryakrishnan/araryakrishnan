@@ -20,9 +20,7 @@ science</li>
 </ul> 
 
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aryakrishnanar/dataset/light)
-
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aryakrishnanar/notebook/light)
-
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aryakrishnanar/discussion/light)
 
 ### Technical Skills 
