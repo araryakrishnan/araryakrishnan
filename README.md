@@ -1,6 +1,5 @@
 # Hello there! <img 
-src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/
-wave.gif" width="30px">
+
 ### 🤵 About Me:
  <ul>
   <li>🌱 I’m currently pursuing M.Sc Data Science at University of 
