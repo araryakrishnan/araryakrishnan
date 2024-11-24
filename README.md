@@ -2,7 +2,8 @@
 
 ### 🤵 About Me:
  <ul>
-  <li>🌱 I’m currently pursuing M.Sc Data Science at University of 
+  <li>🌱 I’m currently working as Associate Data Scientist at Techvantage Analytics</li>
+  <li>Completed M.Sc Data Science at University of 
 Kerala</li>
   <li>💞  I’m interested in data science and machine learning</li>
   <li>💞  I’m looking to collaborate on internships on data 
