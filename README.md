@@ -3,12 +3,8 @@
 ### 🤵 About Me:
  <ul>
   <li>🌱 I’m currently working as Associate Data Scientist at Techvantage Analytics</li>
-  <li>Completed M.Sc Data Science at University of 
+  <li>🌱 Completed M.Sc Data Science at University of 
 Kerala</li>
-  <li>💞  I’m interested in data science and machine learning</li>
-  <li>💞  I’m looking to collaborate on internships on data 
-science</li>
-  <li>🌱 I’m currently learning NLP and Web Scraping</li>
   <li>📫 Feel free to reach me :
      <ol>
        <li>LinkedIn : https://www.linkedin.com/in/arya-krishnan-a-r-75bab6152/</li>
