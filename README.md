@@ -2,7 +2,7 @@
 
 ### 🤵 About Me:
  <ul>
-  <li>🌱 I’m currently working as Associate Data Scientist at Techvantage Analytics</li>
+  <li>🌱 I’m currently working as Senior AI Engineer at Techvantage.ai </li>
   <li>🌱 Completed M.Sc Data Science at University of 
 Kerala</li>
   <li>📫 Feel free to reach me :
